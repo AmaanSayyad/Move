@@ -35,10 +35,26 @@ APT-Casino addresses these problems by offering:
 - Defi Bank: User can stake their tokens on our currently supported chains - Movement, Aptos or EVM and get collateralized loans.
 - Next.js, Javascript, Tailwind CSS, Move, Solidity, Aptos randomness module: aptos_framework::randomness.
 
-## Contracts
+## Deployed Contracts
+- **Movement Contracts**:
+
 https://explorer.movementlabs.xyz/#/txn/95341496?network=local
 
 https://explorer.movementlabs.xyz/#/txn/95341584?network=local
+
+![photo1720636340.jpeg](https://cdn.dorahacks.io/static/files/1909deb49ae78270f82e7da4c38ae16b.jpeg)
+
+- **Roulette Contract - aptos_framework::randomness::** https://aptoscan.com/transaction/23795743?network=devnet
+- **APTC Token Contract**: https://aptoscan.com/module/0x25e6d86a5a7083d9d61e40381e5238ab6d2e785825eba0183cebb6009483dab4/fa_coin?network=devnet
+
+![340064025-dbcba340-d9a9-46fc-a0d6-0b6f0ed8daad](https://github.com/AmaanSayyad/Move/assets/69464744/684590c4-4b82-4921-a666-e32dd3ec9574)
+
+- Aptos: https://aptoscan.com/transaction/29840524?network=devnet
+- EVM: https://sepolia.etherscan.io/address/0x98C2Cd3F5eA88c2aF0A5f021BAaFC48753DdD379
+
+![340064042-44eb13ad-7b31-4e24-bbc5-a9301a731f6d](https://github.com/AmaanSayyad/Move/assets/69464744/459648c6-7344-4f2e-a15d-6838570f5596)
+
+![340064052-e1342754-ab09-4984-96bc-7fa8b7a4d2c7](https://github.com/AmaanSayyad/Move/assets/69464744/9e75d6d1-1b5d-462c-b6ce-58a1025b74ad)
 
 ## Future Plans
 All though started as a idea for Hackathon but now we are thinking to carry forward as a business model and expand further.
